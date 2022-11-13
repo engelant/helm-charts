@@ -1,0 +1,3 @@
+[submodule "charts/itop"]
+	path = charts/itop
+	url = https://github.com/engelant/helm-itop.git
