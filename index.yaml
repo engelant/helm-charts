@@ -11,4 +11,15 @@ entries:
     urls:
     - https://github.com/engelant/helm-charts/releases/download/helm-itop-0.1.0/helm-itop-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-13T20:51:44.404463194Z"
+  itop:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-14T00:18:11.712751625Z"
+    description: A Helm chart for Kubernetes
+    digest: bbc3d97e57e1f730f1149b9d0ed5923375598b9c92aff5ea481dd0aa36ed8233
+    name: itop
+    type: application
+    urls:
+    - https://github.com/engelant/helm-charts/releases/download/itop-0.1.0/itop-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-14T00:18:11.713061044Z"
